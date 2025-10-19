@@ -31,8 +31,8 @@ if (avg >= 90) {
   console.log("Passed with D Grade");
   alert("Passed with D Grade");
 } else if (avg < 50) {
-  console.log("Passed with E Grade");
-  alert("Passed with E Grade");
+  console.log("Failed with E Grade");
+  alert("Failed with E Grade");
 }
 // A+ for average ≥ 90
 // A for average between 80 and 89
